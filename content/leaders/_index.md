@@ -25,6 +25,14 @@ These data sets contain a total of 130 different leaders across 34 different cou
 
 <br>
 
+### Norming Data
+| Sample |                              LTA                             |                              OpCode                             |
+|--------|:------------------------------------------------------------:|:---------------------------------------------------------------:|
+|   UK   |   [**_CSV_**](https://raw.githubusercontent.com/JELambert/Psych_Agg/master/data/csv/norm/uk_leader_lta_norm.csv)  |   [**_CSV_**](https://raw.githubusercontent.com/JELambert/Psych_Agg/master/data/csv/norm/uk_leader_opcode_norm.csv)  |
+|   US   |   [**_CSV_**](https://raw.githubusercontent.com/JELambert/Psych_Agg/master/data/csv/us_leader_lta.csv)  |   [**_CSV_**](https://raw.githubusercontent.com/JELambert/Psych_Agg/master/data/csv/us_leader_opcode.csv)  |
+|  Full  | [**_CSV_**](https://raw.githubusercontent.com/JELambert/Psych_Agg/master/data/csv/other_leader_lta.csv) | [**_CSV_**](https://raw.githubusercontent.com/JELambert/Psych_Agg/master/data/csv/other_leader_opcode.csv) |
+
+
 # Visualization
 
 In this section a brief visual overview of the data at the leader aggregation level is provided.  Visualizations will be separated into the various psychological measures. For more info on each measure please see the [FAQ](http://jelambert.com/faq/) page.
