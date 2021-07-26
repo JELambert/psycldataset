@@ -29,8 +29,8 @@ These data sets contain a total of 130 different leaders across 34 different cou
 | Sample |                              LTA                             |                              OpCode                             |
 |--------|:------------------------------------------------------------:|:---------------------------------------------------------------:|
 |   UK   |   [**_CSV_**](https://raw.githubusercontent.com/JELambert/Psych_Agg/master/data/csv/norm/uk_leader_lta_norm.csv)  |   [**_CSV_**](https://raw.githubusercontent.com/JELambert/Psych_Agg/master/data/csv/norm/uk_leader_opcode_norm.csv)  |
-|   US   |   [**_CSV_**](https://raw.githubusercontent.com/JELambert/Psych_Agg/master/data/csv/us_leader_lta.csv)  |   [**_CSV_**](https://raw.githubusercontent.com/JELambert/Psych_Agg/master/data/csv/us_leader_opcode.csv)  |
-|  Full  | [**_CSV_**](https://raw.githubusercontent.com/JELambert/Psych_Agg/master/data/csv/other_leader_lta.csv) | [**_CSV_**](https://raw.githubusercontent.com/JELambert/Psych_Agg/master/data/csv/other_leader_opcode.csv) |
+|   US   |   [**_CSV_**](https://raw.githubusercontent.com/JELambert/Psych_Agg/master/data/csv/norm/us_leader_lta_norm.csv)  |   [**_CSV_**](https://raw.githubusercontent.com/JELambert/Psych_Agg/master/data/csv/norm/us_leader_opcode_norm.csv)  |
+|  Full  | [**_CSV_**](https://raw.githubusercontent.com/JELambert/Psych_Agg/master/data/csv/norm/leader_lta_norm.csv) | [**_CSV_**](https://raw.githubusercontent.com/JELambert/Psych_Agg/master/data/csv/norm/leader_opcode_norm.csv) |
 
 
 # Visualization

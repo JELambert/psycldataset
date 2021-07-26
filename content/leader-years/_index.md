@@ -22,3 +22,9 @@ These data sets contain a total of 561 different leader-years.
 |   UK   |   [**_CSV_**](https://raw.githubusercontent.com/JELambert/Psych_Agg/master/data/csv/uk_year_lta.csv)  |   [**_CSV_**](https://raw.githubusercontent.com/JELambert/Psych_Agg/master/data/csv/uk_year_opcode.csv)  |
 |   US   |   [**_CSV_**](https://raw.githubusercontent.com/JELambert/Psych_Agg/master/data/csv/us_year_lta.csv)  |   [**_CSV_**](https://raw.githubusercontent.com/JELambert/Psych_Agg/master/data/csv/us_year_opcode.csv)  |
 | Other  | [**_CSV_**](https://raw.githubusercontent.com/JELambert/Psych_Agg/master/data/csv/other_year_lta.csv) | [**_CSV_**](https://raw.githubusercontent.com/JELambert/Psych_Agg/master/data/csv/other_year_opcode.csv) |
+
+### Norming Data
+
+| Sample |                             LTA                            |                             OpCode                            |
+|--------|:----------------------------------------------------------:|:-------------------------------------------------------------:|
+| Full  | [**_CSV_**](https://raw.githubusercontent.com/JELambert/Psych_Agg/master/data/csv/norm/year_lta_norm.csv) | [**_CSV_**](https://raw.githubusercontent.com/JELambert/Psych_Agg/master/data/csv/norm/year_opcode_norm.csv) |
