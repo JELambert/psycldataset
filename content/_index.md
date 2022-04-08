@@ -12,10 +12,10 @@ The Leader Psychological Characteristics data set is a collection of at-a-distan
 
 These data are at the speech level. Some leaders have multiple speeches in a single day. This data contains over 54 million words!
 
-### Please cite either or both of the following when referencing the data.
-* Schafer, Mark, Stephen G. Walker, Clayton Besaw, Paul Gill, and Gary Smith. (2021.) The Personality Traits & Operational Codes of U.S. Presidents: Introducing a New Data Set. In Operational Code Analysis and Foreign Policy Roles: Crossing Simon’s Bridge, eds. Mark Schafer and Stephen G. Walker. New York: Routledge.
+### Please cite the following when referencing the data.
 
-* Schafer, Mark, Joshua Lambert, and Collin Kazazis. (2021.) Presidential Personalities and Operational Codes: Learning Effects and Midterm Congressional Election Results. In Operational Code Analysis and Foreign Policy Roles: Crossing Simon’s Bridge, eds. Mark Schafer and Stephen G. Walker. New York: Routledge.
+* Mark Schafer, Joshua E. Lambert, Psychological Characteristics of Leaders (PsyCL): A New Data Set, Foreign Policy Analysis, Volume 18, Issue 2, April 2022, orac008, https://doi.org/10.1093/fpa/orac008
+
 
 Please note that these data are only the raw counts of components of the different variables. In order for these data to be used, you must conduct calculations to convert these raw counts to variables. In addition, you are likely to need to aggregate multiple speech acts to your unit of analysis. Some of the processes for aggregation and calculation are discussed below. While it is possible to use the speech act itself as a unit of analysis (the raw counts still need to be converted to variables), note that many speech acts simply do not have enough verbal material to produce meaningful numbers. Therefore, we recommend some aggregation strategy that combines multiple speech acts.
 
