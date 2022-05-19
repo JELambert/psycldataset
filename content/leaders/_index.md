@@ -32,6 +32,10 @@ These data sets contain a total of 130 different leaders across 34 different cou
 |   US   |   [**_CSV_**](https://raw.githubusercontent.com/JELambert/Psych_Agg/master/data/csv/norm/us_leader_lta_norm.csv)  |   [**_CSV_**](https://raw.githubusercontent.com/JELambert/Psych_Agg/master/data/csv/norm/us_leader_opcode_norm.csv)  |
 |  Full  | [**_CSV_**](https://raw.githubusercontent.com/JELambert/Psych_Agg/master/data/csv/norm/leader_lta_norm.csv) | [**_CSV_**](https://raw.githubusercontent.com/JELambert/Psych_Agg/master/data/csv/norm/leader_opcode_norm.csv) |
 
+### Please cite the following when referencing the data.
+
+* Mark Schafer, Joshua E. Lambert, Psychological Characteristics of Leaders (PsyCL): A New Data Set, Foreign Policy Analysis, Volume 18, Issue 2, April 2022, orac008, https://doi.org/10.1093/fpa/orac008
+
 
 # Visualization
 
