@@ -16,7 +16,6 @@ The basic data sets available at this time come in five forms.
 
 5. The leader month data set. This data can be found [*HERE*](http://psycldataset.com/months/).
 
-### Please cite either or both of the following when referencing the data.
-* Schafer, Mark, Stephen G. Walker, Clayton Besaw, Paul Gill, and Gary Smith. (2021.) The Personality Traits & Operational Codes of U.S. Presidents: Introducing a New Data Set. In Operational Code Analysis and Foreign Policy Roles: Crossing Simon’s Bridge, eds. Mark Schafer and Stephen G. Walker. New York: Routledge.
+### Please cite the following when referencing the data.
 
-* Schafer, Mark, Joshua Lambert, and Collin Kazazis. (2021.) Presidential Personalities and Operational Codes: Learning Effects and Midterm Congressional Election Results. In Operational Code Analysis and Foreign Policy Roles: Crossing Simon’s Bridge, eds. Mark Schafer and Stephen G. Walker. New York: Routledge.
+* Mark Schafer, Joshua E. Lambert, Psychological Characteristics of Leaders (PsyCL): A New Data Set, Foreign Policy Analysis, Volume 18, Issue 2, April 2022, orac008, https://doi.org/10.1093/fpa/orac008
