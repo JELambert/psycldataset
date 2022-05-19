@@ -28,3 +28,8 @@ These data sets contain a total of 561 different leader-years.
 | Sample |                             LTA                            |                             OpCode                            |
 |--------|:----------------------------------------------------------:|:-------------------------------------------------------------:|
 | Full  | [**_CSV_**](https://raw.githubusercontent.com/JELambert/Psych_Agg/master/data/csv/norm/year_lta_norm.csv) | [**_CSV_**](https://raw.githubusercontent.com/JELambert/Psych_Agg/master/data/csv/norm/year_opcode_norm.csv) |
+
+### Please cite the following when referencing the data.
+
+* Mark Schafer, Joshua E. Lambert, Psychological Characteristics of Leaders (PsyCL): A New Data Set, Foreign Policy Analysis, Volume 18, Issue 2, April 2022, orac008, https://doi.org/10.1093/fpa/orac008
+
