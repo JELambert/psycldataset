@@ -8,7 +8,7 @@ The Leader Psychological Characteristics data set is a collection of at-a-distan
 
 # Full Data Set
 
-* You can find the full disaggregated data [**_HERE_**](https://raw.githubusercontent.com/JELambert/Psych_Agg/master/data/csv/speech_level.csv)
+* You can find the full disaggregated data [**_HERE_**](https://raw.githubusercontent.com/JELambert/Psych_Agg/master/data/csv/speech_level.xlsx)
 
 These data are at the speech level. Some leaders have multiple speeches in a single day. This data contains over 54 million words!
 
